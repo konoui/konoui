@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @konoui
-- 👀 I’m interested in TODO
-- 🌱 I’m currently learning TODO
-- 💞️ I’m looking to collaborate on TODO
-- 📫 How to reach me TODO
+👋 Hi, I’m @konoui
 
+
+![konoui GitHub stats](https://github-readme-stats.vercel.app/api?username=konoui&show_icons=true)
 
 <!---
 konoui/konoui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
